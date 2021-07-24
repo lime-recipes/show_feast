@@ -1,0 +1,3 @@
+project: flights_feast_module
+registry: gs://flights_feature_bucket/feature_registry.db
+provider: gcp
